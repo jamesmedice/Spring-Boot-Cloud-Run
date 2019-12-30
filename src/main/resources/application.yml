@@ -1,0 +1,8 @@
+#set up properties
+server:
+    port: ${SERVER_PORT:8080}
+
+spring:
+    data:
+    application:
+        name: standalone
